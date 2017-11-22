@@ -34,7 +34,7 @@ Welche Aussagen sind korrekt?
 4. An interface may be implemented by at most one classifier, but one classifier may implement multiple interfaces.
 
 ## Aufgabe 5
-Geben Sie in der folgenden Abbildung die Bezeichnungen der dargestellten Elemente an. Bitte nummerieren Sie ihre Antworten einfach von links nach rechts.
+Geben Sie in der folgenden Abbildung die Bezeichnungen der dargestellten Elemente an.
 ![Aufgabe 5](https://github.com/Reitz86/uebung4/raw/master/aufgabe5.JPG)
 
 
