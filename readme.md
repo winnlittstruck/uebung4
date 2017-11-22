@@ -2,7 +2,7 @@
 
 ## Aufgabe 1
 Entwerfen Sie ein Anwendungsfalldiagramm zu der folgenden Beschreibung:
-In einem Kino kann ein Gast Kinokarten an der Kasse kaufen, die vorbestellt sein könnten. Auÿerdem
+In einem Kino kann ein Gast Kinokarten an der Kasse kaufen, die vorbestellt sein könnten. Außerdem
 ist es möglich Popcorn und Getränke zu bestellen. Danach bezahlt der Kunde beim Kassierer die
 Rechnung. Es ist auch möglich mit Kreditkarte zu bezahlen, welche bei Bedarf einer automatischen
 Prüfung unterzogen werden kann.
@@ -14,8 +14,10 @@ Die über das Internet aufgegebenen Bestellungen werden zuerst vom Kundencenter 
 die Bestelldaten nicht korrekt oder ist die Bestellung nicht plausibel, so nimmt das Kundencenter mit
 dem entsprechenden Kunden Kontakt auf, um die offenen Fragen zu klären. Ist mit der Bestellung alles
 in Ordnung, bzw. sind die offenen Fragen geklärt, dann stellt die Floristin mit Hilfe der Bestelldaten
-den Strauÿ zusammen. Sobald der Strauÿ fertig ist, wird er vom Lieferdienst an die auf der Bestellung
+den Strauß zusammen. Sobald der Strauÿ fertig ist, wird er vom Lieferdienst an die auf der Bestellung
 vermerkte Adresse geliefert.
+
+### Entwerfen Sie zu diesem Beispiel auch ein Aktivitätsdiagramm. Erkennen Sie die Unterschiede?
 
 ## Aufgabe 3
 Welche der folgenden Aussagen über ein Interface ist korrekt?
@@ -37,6 +39,7 @@ Geben Sie in der folgenden Abbildung die Bezeichnungen der dargestellten Element
 
 
 ## Aufgabe 6
+Welche der folgenden Aussagen ist korrekt?
 ![Aufgabe 6](https://github.com/Reitz86/uebung4/raw/master/aufgabe6.JPG)
 
 1. Sobald w zerstört wird, dann wird auch z zerstört.
@@ -47,22 +50,14 @@ Geben Sie in der folgenden Abbildung die Bezeichnungen der dargestellten Element
 ## Aufgabe 7
 Schauen Sie sich die Java Dateien im Ordner RobotAdapter an: Die Spielfiguren in einem Computerspiel müssen alle das Interface Spieler implementieren. Die Klasse Human tut dies. Nun hat eine Zulieferfirma den Code für einen Roboter geschrieben (Robot.java). Leider haben Sie auf diesen keinen Einfluss und müssen den Roboter so in ihr Spiel integrieren. Welches Pattern eignet sich dafür? Implementieren Sie den entsprechenden Code.
 
-```javagi
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-
 # Zusätzliche Materialien (wird nach und nach erweitert, bis alle Inhalte die keine Folien haben hier vorhanden sind. Daher immer wieder reinschauen)
 ## Adapter Pattern
 1. Einfache Einführung als Video: https://www.video2brain.com/de/tutorial/passt-schon-adapter
 2. Technische Beschreibung mit Beispielen (Folie 47-50): https://homepages.fhv.at/hv/Semester4/OOAD/Patterns.pdf
 
 ## Observer Pattern
-1. Technische Beschreibung mit Beispielen (Folie 35-46)https://homepages.fhv.at/hv/Semester4/OOAD/Patterns.pdf
+1. Technische Beschreibung mit Beispielen (Folie 35-46): https://homepages.fhv.at/hv/Semester4/OOAD/Patterns.pdf
 
 ## Factory Pattern
-1. Technische Beschreibung mit Beispielen (Folie 75-83)https://homepages.fhv.at/hv/Semester4/OOAD/Patterns.pdf
+1. Technische Beschreibung mit Beispielen (Folie 75-83): https://homepages.fhv.at/hv/Semester4/OOAD/Patterns.pdf
 
