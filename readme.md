@@ -32,8 +32,9 @@ Welche Aussagen sind korrekt?
 4. An interface may be implemented by at most one classifier, but one classifier may implement multiple interfaces.
 
 ## Aufgabe 5
+Geben Sie in der folgenden Abbildung die Bezeichnungen der dargestellten Elemente an. Bitte nummerieren Sie ihre Antworten einfach von links nach rechts.
 ![Aufgabe 5](https://github.com/Reitz86/uebung4/raw/master/aufgabe5.JPG)
-Geben Sie in der folgenden Abbildung die Bezeichnungen der dargestellten Elemente an.
+
 
 ## Aufgabe 6
 ![Aufgabe 6](https://github.com/Reitz86/uebung4/raw/master/aufgabe6.JPG)
@@ -44,6 +45,7 @@ Geben Sie in der folgenden Abbildung die Bezeichnungen der dargestellten Element
 4. Zu einem bestimmten Zeitpunkt kann eine Instanz von z in mehreren Instanzen von w enthalten sein.
 
 ## Aufgabe 7
+Schauen Sie sich die Java Dateien im Ordner RobotAdapter an: Die Spielfiguren in einem Computerspiel müssen alle das Interface Spieler implementieren. Die Klasse Human tut dies. Nun hat eine Zulieferfirma den Code für einen Roboter geschrieben (Robot.java). Leider haben Sie auf diesen keinen Einfluss und müssen den Roboter so in ihr Spiel integrieren. Welches Pattern eignet sich dafür? Implementieren Sie den entsprechenden Code.
 
 ```javagi
 function fancyAlert(arg) {
@@ -52,3 +54,15 @@ function fancyAlert(arg) {
   }
 }
 ```
+
+# Zusätzliche Materialien (wird nach und nach erweitert, bis alle Inhalte die keine Folien haben hier vorhanden sind. Daher immer wieder reinschauen)
+## Adapter Pattern
+1. Einfache Einführung als Video: https://www.video2brain.com/de/tutorial/passt-schon-adapter
+2. Technische Beschreibung mit Beispielen (Folie 47-50): https://homepages.fhv.at/hv/Semester4/OOAD/Patterns.pdf
+
+## Observer Pattern
+1. Technische Beschreibung mit Beispielen (Folie 35-46)https://homepages.fhv.at/hv/Semester4/OOAD/Patterns.pdf
+
+## Factory Pattern
+1. Technische Beschreibung mit Beispielen (Folie 75-83)https://homepages.fhv.at/hv/Semester4/OOAD/Patterns.pdf
+
