@@ -36,10 +36,11 @@ Geben Sie in der folgenden Abbildung die Bezeichnungen der dargestellten Element
 
 ## Aufgabe 6
 ![Aufgabe 6](https://github.com/Reitz86/uebung4/raw/master/aufgabe6.JPG)
-a) Sobald w zerstört wird, dann wird auch z zerstört.
-b) Sobald z zerstört wird, dann wird auch w zerstört.
-c) Zu einem bestimmten Zeitpunkt kann eine Instanz von z in genau einer Instanz von w enthalten sein.
-d) Zu einem bestimmten Zeitpunkt kann eine Instanz von z in mehreren Instanzen von w enthalten sein.
+
+1. Sobald w zerstört wird, dann wird auch z zerstört.
+2. Sobald z zerstört wird, dann wird auch w zerstört.
+3. Zu einem bestimmten Zeitpunkt kann eine Instanz von z in genau einer Instanz von w enthalten sein.
+4. Zu einem bestimmten Zeitpunkt kann eine Instanz von z in mehreren Instanzen von w enthalten sein.
 
 ## Aufgabe 7
 
