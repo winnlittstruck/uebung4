@@ -35,7 +35,7 @@ Welche Aussagen sind korrekt?
 Geben Sie in der folgenden Abbildung die Bezeichnungen der dargestellten Elemente an.
 
 ## Aufgabe 6
-![Aufgabe 6](reitz86.github.com/uebung4/img/aufgabe6.jpg)
+![Aufgabe 6](https://github.com/Reitz86/uebung4/raw/master/aufgabe6.JPG)
 a) Sobald w zerstört wird, dann wird auch z zerstört.
 b) Sobald z zerstört wird, dann wird auch w zerstört.
 c) Zu einem bestimmten Zeitpunkt kann eine Instanz von z in genau einer Instanz von w enthalten sein.
