@@ -1,0 +1,24 @@
+Aufgabe 3: 
+Nummer 2 ist korrekt
+
+Aufgabe 4: 
+Nummer 2 ist korrekt
+
+Aufgabe 6:
+Nummer 1 und 3 sind korrekt.
+
+AUfgabe 5:
+
+1: abstrakte Klasse
+2: Name der Assoziation
+3: Assoziation: Aggregation
+4: Klassenname
+5: Klasse
+6: Generalisierung
+7: Assoziation
+8: Name eines Attributs
+9: Multiplizität
+10: Komposition
+11: binäre Assoziation
+12: Klassenmethoden
+13: Schlüsselwort: Enumeration
